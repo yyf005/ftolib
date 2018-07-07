@@ -1,0 +1,2 @@
+# ftolib
+fto mining
